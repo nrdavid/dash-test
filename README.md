@@ -22,4 +22,4 @@ You can run the code in a docker container using the following code.
 docker compose up --detach
 ```
 
-This will run the application on local port `2222`. I recommend running the application detached as the debug is cluttered with numpy warnings. 
+This will run the application on local port `80`. I recommend running the application detached as the debug is cluttered with numpy warnings. 
